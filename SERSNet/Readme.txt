@@ -26,3 +26,6 @@ Label:
  - 0: DI water.
  - 1: 10 mM, Rhodamine 6G with various laser power & exposure time combinations
 ##################################################################
+
+Note: Please contact to the professor Minseok Kim @KIT, south korea if you want to utilize this dataset for your publication. 
+email: mkim@kumoh.ac.kr
