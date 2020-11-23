@@ -26,6 +26,45 @@ Label:
  - 0: DI water.
  - 1: 10 mM, Rhodamine 6G with various laser power & exposure time combinations
 ##################################################################
+Filename: sersnet_devse_batch3_1.csv
+Experimental_Lab: Minseok Kim's Lab @ KIT, (mkim@kumoh.ac.kr)
+Experimental_Researcher: Jaeseok Lee @ KIT (leelion7027@gmail.com)
+Experimental_Date: 2020-11-21
+Experimental_Type: SERS
+Preprocessing: Seongyong Park @ KAIST (sypark0215@kaist.ac.kr) 
+Data_Dimension: 1,000
+Data_Annotation: Laser Power 40%, Exposure Time 500 ms
+Features: Wave numbers 
+Label:
+ - 0: substrate
+ - 1: 100 uM, Rhodamine 6G
+##################################################################
+Filename: sersnet_devse_batch3_2.csv
+Experimental_Lab: Minseok Kim's Lab @ KIT, (mkim@kumoh.ac.kr)
+Experimental_Researcher: Jaeseok Lee @ KIT (leelion7027@gmail.com)
+Experimental_Date: 2020-11-21
+Experimental_Type: SERS
+Preprocessing: Seongyong Park @ KAIST (sypark0215@kaist.ac.kr) 
+Data_Dimension: 1,000
+Data_Annotation: Laser Power 40%, Exposure Time 500 ms
+Features: Wave numbers 
+Label:
+ - 0: substrate
+ - 1: 100 nM, Rhodamine 6G
+##################################################################
+Filename: sersnet_devse_batch3_3.csv
+Experimental_Lab: Minseok Kim's Lab @ KIT, (mkim@kumoh.ac.kr)
+Experimental_Researcher: Jaeseok Lee @ KIT (leelion7027@gmail.com)
+Experimental_Date: 2020-11-21
+Experimental_Type: SERS
+Preprocessing: Seongyong Park @ KAIST (sypark0215@kaist.ac.kr) 
+Data_Dimension: 1,000
+Data_Annotation: Laser Power 40%, Exposure Time 500 ms
+Features: Wave numbers 
+Label:
+ - 0: substrate
+ - 1: 10 nM, Rhodamine 6G
+##################################################################
 
 Note: Please contact to the professor Minseok Kim @KIT, south korea if you want to utilize this dataset for your publication. 
 email: mkim@kumoh.ac.kr
